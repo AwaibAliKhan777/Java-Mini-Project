@@ -19,10 +19,10 @@ This is a simple number guessing game implemented in Java.<br> The program gener
 1. Ensure you have Java installed on your machine.<br>
 2. Download or clone this repository.<br>
 3. Navigate to the directory containing Mini.java.<br>
-4. Compile the Java file using the command<br>
-   javac Mini.java<br>
+4. Compile the Java file using the command <br />
+      javac Mini.java <br />
 5.Run the compiled Java program using the command:<br>
-   java Mini<br>
+      java Mini <br />
 
 #Contributing<br>
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!<br>
